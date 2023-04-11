@@ -5,7 +5,7 @@ This is a simple implementation of the classic Snake game in the console using C
 ## How to Play
 
 1. Use the arrow keys to move the snake up, down, left, or right.
-2. Try to eat the red apples that appear on the screen to grow longer.
+2. Try to eat the bugs that appear on the screen to grow longer.
 3. Avoid running into the walls or the snake's own body.
 
 ## How to Run the Game
